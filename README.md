@@ -4,7 +4,9 @@ An agent-based study of how a flock's forward field-of-view angle and its popula
 
 ## Full Research Report
 
-> A full research report is included in this repository: [`project_report.pdf`](./project_report.pdf)
+A full research report is included in this repository: [`project_report.pdf`](./project_report.pdf)
+
+> **Article Link:** (https://www.preprints.org/manuscript/202608.1003)
 
 ## Overview
 
