@@ -7,6 +7,8 @@ An agent-based study of how a flock's forward field-of-view angle and its popula
 A full research report is included in this repository: [`project_report.pdf`](./project_report.pdf)
 
 > **Article Link:** (https://www.preprints.org/manuscript/202608.1003)
+>
+> **Preprint DOI:** [10.20944/preprints202608.1003.v1](https://doi.org/10.20944/preprints202608.1003.v1)
 
 ## Overview
 
@@ -146,3 +148,11 @@ uv run flocking_demo.py
 - Only intrinsic (angular) noise was tested. The model perturbs headings directly; vectorial or position-based noise, which can change the order of the transition, was not explored.
 - The parameter ranges were narrow. Four field-of-view angles, three densities, and a single fixed combination of world size, radius, and speed cover only a small slice of the model's parameter space.
 - Hysteresis was not measured. Noise was not ramped up and down, so any path dependence or bistability around the transition (a hallmark of a discontinuous transition) is not captured.
+
+## Team
+
+Team project at **Vrije Universiteit Amsterdam**.
+Team: Baris Kaban, Goktug Yildirim, Murat Gundogan, Danila Popusoi.
+
+A copy is also published by teammate Barış Kaban at [github.com/bariskaban/Vicsek-Fov-Density](https://github.com/bariskaban/Vicsek-Fov-Density).
+
